@@ -1,4 +1,4 @@
-# Azure Arc Enabled SQL Server - AI Workshop
+# Hybrid database cloud with Azure Database for SQL and SQL Server enabled by Azure Arc
 
 A hands-on workshop demonstrating the hybrid cloud model with Azure Arc enabled SQL Server, Arc enabled Kubernetes, and data replication to Azure SQL Managed Instance.
 
